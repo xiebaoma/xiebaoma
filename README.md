@@ -16,4 +16,5 @@
 | Probability-Theory-and-Mathematical-Statistics | 概率论与数理统计的学习资料                                 | https://github.com/xiebaoma/Probability-Theory-and-Mathematical-Statistics.git |
 | WordToPDF                                      | 一个可以将ppt,word,excel,图片等各种文件转化为PDF文件的程序 | https://github.com/xiebaoma/WordToPDF.git                    |
 | laboratory（private）                          | 一段短暂的实验室经历                                       | https://github.com/xiebaoma/laboratory.git                   |
+| Applied-Optics                                 | 应用光学学习资料                                           | https://github.com/xiebaoma/Applied-Optics.git               |
 
