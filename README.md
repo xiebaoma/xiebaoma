@@ -19,3 +19,4 @@
 | Applied-Optics                                 | 应用光学学习资料                                           | https://github.com/xiebaoma/Applied-Optics.git               |
 | python-projects                                | 一些python小程序                                           | https://github.com/xiebaoma/python-projects.git              |
 | Circuit-Analysis-and-Simulation                | 电路分析与模拟电路学习资料                                 | https://github.com/xiebaoma/Circuit-Analysis-and-Simulation.git |
+| University-Physics                             | 电磁学，量子力学学习资料                                   | https://github.com/xiebaoma/University-Physics.git           |
