@@ -15,3 +15,4 @@
 | Linear-Algebra-Calculator      | 计算线性代数问题的程序                                     | https://github.com/xiebaoma/Linear-Algebra-Calculator.git    |
 | json-tutorial                  | 从零开始的 JSON 库教程                                     | https://github.com/xiebaoma/json-tutorial.git                |
 | mysmallchat                    | 用C++重新编写的开源项目smallchat                           | https://github.com/xiebaoma/mysmallchat.git                  |
+| cookie-demo                    | 一个演示HTTP协议中cookie原理的demo                         | https://github.com/xiebaoma/cookie-demo.git                  |
